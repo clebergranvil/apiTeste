@@ -1,11 +1,4 @@
 {
-   "compromissos":[
-      {
-         "id":1,
-         "pessoa":"MARCELO MEDEIROS",
-         "descricao":"Fazer nada na data de hoje"
-      }
-   ],
    "cursos":[
       {
          "id":1,
