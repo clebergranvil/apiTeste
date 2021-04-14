@@ -1,8 +1,8 @@
 
 {
-  "compromissos" : [
+  "compromissos": [
     {"id": 1, "pessoa": "MARCELO MEDEIROS", "descricao": "Fazer nada na data de hoje"},
-    ],
+  ],
   "cursos": [
     { "id": 1, "titulo": "Entendendo o ES6", "url": "https://www.codeprestige.com.br/cursos/es6" },
     { "id": 2, "titulo": "Produtividade Máxima com o VS Code", "url": "https://www.udemy.com/truques-vscode/" },
